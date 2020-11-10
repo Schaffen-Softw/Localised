@@ -20,7 +20,7 @@ class StripeService {
   static String apiBase = 'https://api.stripe.com/v1';
   static String paymentApiUrl = '${StripeService.apiBase}/payment_intents';
   static String secret =
-      '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';
+      'Our Publish Key From Stripe';
   static Map<String, String> headers = {
     'Authorization': 'Bearer ${StripeService.secret}',
     'Content-Type': 'application/x-www-form-urlencoded'
@@ -30,7 +30,7 @@ class StripeService {
     try {
       StripePayment.setOptions(StripeOptions(
           publishableKey:
-              "pk_live_51H1rLBAGX126C26eA1ETYtqWHaxR9JeMXaC7N6owvPoo66gjb6hnw7kFFv8OWeqClHG1epftr6fS8XqUOSinc4Sn00Ha4gm82z",
+              "Our Secret Key From Stripe",
           merchantId: "Schaffen Software",
           androidPayMode: 'test'));
     } catch (e) {
