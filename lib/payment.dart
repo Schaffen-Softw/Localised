@@ -183,7 +183,7 @@ class _CardScreenState extends State<CardScreen> {
     super.initState();
     StripePayment.setOptions(StripeOptions(
       publishableKey:
-          'pk_test_51H1rLBAGX126C26eQvmNdtd7Chi3adOp5s9lVBil6gDXU0qTO2o8c5pkmry1MGjGRkSKmXbnUSBYgWRjQFiSnU6p00vawi8gRc',
+          '',
     ));
   }
 
