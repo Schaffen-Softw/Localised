@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.schaffensofts.com" target="_blank"><img src="https://i.postimg.cc/ZRBk4xZs/logo.png" title="Schaffen Softwares" alt="Schaffen Softwares"></a>
+<p align="center"><a href="https://www.schaffensoftwares.tech" target="_blank"><img src="https://i.postimg.cc/ZRBk4xZs/logo.png" title="Schaffen Softwares" alt="Schaffen Softwares"></a>
 </p>
 
 # Localised
